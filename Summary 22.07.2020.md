@@ -1,6 +1,8 @@
 
 <h1>Summary FbW39 22.07.2020
 
+
+
 >-  Created a local repository and upload it in Github. make changes to the files in github and pull it in vscode editor
 >-Changed the branches to see the differences
 >- How to create a repository from terminal with emphasized text *curl* command
@@ -11,5 +13,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODMxNzMxNiwyMDQ2NjYyNTQ0XX0=
+eyJoaXN0b3J5IjpbLTExNDg0NjI0OCwtNzg4MzE3MzE2LDIwND
+Y2NjI1NDRdfQ==
 -->
