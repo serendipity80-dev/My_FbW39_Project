@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-﻿
-<h1> Summary FbW39 22.07.2020
+
+﻿<h1>
+ ##Summary FbW39 22.07.2020
 
 1.  Created a local repository and upload it in Github. make changes to the files in github and pull it in vscode editor
 2. Changed the branches to see the differences
@@ -32,5 +32,5 @@ Y2NjI1NDRdfQ==
 -->
 >>>>>>> ce05037462008823e4e2778cc30594705458f4e5
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ1ODkyMjNdfQ==
+eyJoaXN0b3J5IjpbLTE2MjQwMjc2M119
 -->
